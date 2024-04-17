@@ -151,7 +151,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: calc(1.275rem + 0.3vw);
+  font-size: 35px;
 }
 @media (min-width: 1200px) {
   h4, .h4 {
@@ -8232,6 +8232,7 @@ textarea.form-control-lg {
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  font-size: 35px;
 }
 
 .text-body {
@@ -8252,6 +8253,7 @@ textarea.form-control-lg {
 .text-white-50 {
   --bs-text-opacity: 1;
   color: rgba(255, 255, 255, 0.6) !important;
+  font-size: 20px;
 }
 
 .leftalign {
