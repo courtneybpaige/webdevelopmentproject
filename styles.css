@@ -11077,7 +11077,7 @@ body {
   height: auto;
   min-height: 100rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(210, 180, 140, 0.3) 0%, rgba(210, 180, 140, 0.7) 75%, #000 100%), url("../assets/img/weddingvenue.jpg");
+  background: linear-gradient(to bottom, rgba(210, 180, 140, 0.3) 0%, rgba(210, 180, 140, 0.7) 75%, #000 100%), url(https://socialiteeventplanning.com/wp-content/uploads/2023/08/image.png);
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11163,7 +11163,7 @@ h2{
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url(https://socialiteeventplanning.com/wp-content/uploads/2023/08/image.png);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/weddingvenue2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
